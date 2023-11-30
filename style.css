@@ -1,0 +1,152 @@
+/* Unorderd List */
+/* 
+ul{
+   list-style-type: lower-latin; 
+} */
+
+
+/* Ordered List */
+
+/* ol{
+    list-style-type: lower-roman;
+} */
+
+
+/* Images style for Bullet */
+
+/* ul{
+    list-style-image: url(./icons8-right-3d-fluency/icons8-right-20.png)
+} */
+
+
+/* style position */
+/* 
+.lorem1{
+    list-style-position: inside;
+}
+
+.lorem2{
+    list-style-position: outside;
+} */
+
+
+
+/* List style shorthand */
+
+/* ul{
+    list-style: inside square;
+} */
+
+
+/* Table Properties */
+
+/* table{
+    width: 500px;
+    padding: 80px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    text-align: center;
+    background-color: blanchedalmond;
+   
+
+}
+
+table , td, th{
+    border: 1px solid red;
+    border-collapse:collapse ;
+}
+
+tr:hover{
+  background-color: brown;
+  cursor:pointer ;
+}
+td{
+    padding: 10px;
+}
+th{
+    font-weight: bold;
+    color:tomato;
+}
+.money{
+    background-color:chocolate;
+} */
+
+
+/* Empty cells */
+
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+    empty-cells: show;
+
+}
+
+
+
+/* gaps between cells */
+
+/* td{
+    background-color: burlywood;
+    padding: 10px;
+    border: 3px solid red;
+}
+
+table{
+    border-collapse: collapse separate;
+    border-spacing: 20px 30px;
+
+} 
+
+
+/* styling forms */
+
+ /* input{
+    font-size: large;
+    color: brown;
+    background-color:wheat;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+input:focus{
+    background-color:chartreuse;
+    border: 2px solid navy;
+}  */
+
+
+/* Background image */
+
+/* #Email{
+    background-image: url(./icons8-email-color/icons8-email-48.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+#password{
+    background-image: url(./icons8-password-ios-16-filled/icons8-password-50.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 30px ;
+} */
+
+
+/* styling fileds & legend */
+
+fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+  }
+  input-btn:hover{
+cursor: pointer;
+  }
+
